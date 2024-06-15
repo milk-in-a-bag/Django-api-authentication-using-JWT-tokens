@@ -1,0 +1,8 @@
+db.postgresql
+
+# PostgreSQL
+*.log
+*.sql
+*.dump
+pgsql_tmp/
+pg_log/
