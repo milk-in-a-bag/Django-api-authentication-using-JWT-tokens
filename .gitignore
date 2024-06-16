@@ -12,7 +12,7 @@ venv/
 /media/
 
 # Ignore Django local settings (keep your settings in a separate file)
-/local_settings.py
+/auth/auth/settings.py
 
 # Ignore IDE or editor-specific files
 .vscode/
@@ -35,3 +35,5 @@ Pipfile.lock
 
 # Ignore backup files
 *~
+
+*.rest
