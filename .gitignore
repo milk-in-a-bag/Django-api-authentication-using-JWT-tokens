@@ -1,7 +1,8 @@
 # Ignore Python bytecodes, virtual environments, and other generated files
 *.pyc
 *.pyo
-__pycache__/
+/auth/auth/__pycache__/
+/auth/users/__pycache__/
 env/
 venv/
 
